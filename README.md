@@ -1,6 +1,6 @@
-## Trading Bot
+## AI Trading Engine
 
-A simple trading bot based on Binary Decision Trees making it highly customisable - 
+A custom-built AI system that leverages Binary Decision Trees and combines technical, fundamental, and market sentiment analysis to make informed trading decisions. This AI system uses machine learning algorithms to analyze vast amounts of market data, including investor sentiment, and predicts future stock prices. It utilizes technical analysis to identify trends and make short-term trades, while relying on fundamental analysis for long-term investment decisions. Market sentiment analysis is used to evaluate the overall market mood and investor confidence in a particular stock or market. The Binary Decision Trees evaluate the risk and reward of different trading strategies based on historical data, allowing the AI system to make quick, accurate trades in real-time. The integration of these advanced technologies provides a cutting-edge solution for automating the stock trading process, helping traders maximize profits and minimize losses by considering multiple factors, including market sentiment, through the power of AI.
 
 ### Concepts
 
