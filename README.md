@@ -36,7 +36,30 @@ A custom-built AI system that leverages Binary Decision Trees and combines techn
 - Keeping a log of all the decisions made and any events triggered (like buy or sell).
 - Storing the logs in a secure database for future reference and analysis.
 
+## Challenges
+***API Data Source:***
 
+- Data Quality: Ensuring that the API data source is accurate and up-to-date, and that any errors or inconsistencies are handled effectively.
+- Data Availability: Dealing with API data sources that are unreliable or become unavailable during high-traffic times.
+- Data Integration: Integrating API data into the AI system in a way that allows for efficient processing and analysis.
+
+***Coding:***
+
+- Scalability: Ensuring that the code is scalable and can handle increasing amounts of data and transactions over time.
+- Maintainability: Writing code that is easy to maintain and update, even as the AI system evolves.
+- Security: Implementing strong security measures to protect against potential threats such as hacking, data theft, and other malicious activities.
+
+***Performance:***
+
+- Processing Speed: Ensuring that the AI system can process and analyze large amounts of data in real-time, without slowing down or causing delays.
+- Resource Management: Managing the system's resources, including CPU, memory, and storage, to ensure optimal performance.
+- Latency: Reducing the latency of trades, so that they are executed as quickly as possible.
+
+***AI Engine Wrong Decisions:***
+
+- Decision Accuracy: Ensuring that the AI engine is making accurate decisions based on the data and algorithms being used.
+- Overfitting: Dealing with the potential for the AI engine to overfit to the data, leading to incorrect predictions and decisions.
+- Model Bias: Preventing bias in the AI engine, which could lead to incorrect decisions and harmful consequences for traders.
 
 
 #### More Info and Usage coming soon
